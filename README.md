@@ -10,16 +10,18 @@
   
 ##
   
-<div align="center">
+<div>
   <a href="https://www.instagram.com/gabi_px/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"       target="_blank">
   </a>
   <a href = "mailto:gabrielyrpaitax@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/gabrielypaitax" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/321e0e0cdde3fdab6512ee1dce40db4b.gif">
   </a> 
   
   ##
-  
+
   ![Snake animation](https://github.com/gabrielypx/gabrielypx/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
