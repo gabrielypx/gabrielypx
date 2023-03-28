@@ -13,7 +13,7 @@
 <div top="150">
   <a href="https://www.instagram.com/gabi_px/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"       target="_blank">
   </a>
-  <a href = "mailto:gabrielyrpaitax@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href = "mailto:gabrielypaitax@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/gabrielypaitax" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/1abde9808432a6b240895502b53d3756.gif" align="right" width="150" height="150" border="0" alt="Gaby-pic"/></a>
