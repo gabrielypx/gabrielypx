@@ -1,4 +1,4 @@
-### Oiii, eu sou a Gabi! 👋
+### Oiii, eu sou a Gaby! 👋
 
 ##
 
